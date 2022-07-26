@@ -4,6 +4,8 @@ This repository contains the tools required for a CI pipeline.each tool have mut
 ##### All the Installation are on Ubuntu 20.04.4 LTS focal
 
 ##Tools list
+
+
 		1.GITLAB
 > 	Popular distributed version control system. but it is evolved as complete devops tool which cover all stages of devops lifecycle.
 
